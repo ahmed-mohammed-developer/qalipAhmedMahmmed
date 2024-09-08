@@ -324,6 +324,30 @@
 "tech": ["Html","CSS", "Bootstrap library", "Google fonts",  "Responsive"],
 "type": ["أخرى","404"],
 "date": "2024-08-14T10:10:00Z"
+},
+{ "id": 28,
+"title": "صفحة الهبوط الشخصية", 
+"description": "هل تبحث عن طريقة فعّالة لعرض معلوماتك الشخصية أو مشروعك بطريقة جذابة وسهلة الاستخدام؟ نقدم لك صفحة الهبوط الشخصية المصممة باستخدام أحدث التقنيات لضمان تجربة مستخدم مميزة وأداء عالي. تتميز الصفحة بأداء عالي وسرعة تحميل فائقة بفضل استخدام Vite، حيث يتم تحميل الصفحة بسرعة كبيرة مما يحسن تجربة المستخدم. كما أن التصميم متجاوب وجذاب باستخدام Bootstrap، مما يضمن تجربة مستخدم ممتازة على جميع الأجهزة، سواء كانت هواتف ذكية أو أجهزة لوحية أو حواسيب. يتم عرض البيانات بشكل ديناميكي من خلال جلبها من ملف JSON، مما يسهل تحديث المعلومات دون الحاجة لتعديل الكود. بفضل React، تتميز الصفحة بتفاعلية عالية وسهولة في التنقل بين الأقسام المختلفة. بالإضافة إلى ذلك، تبدو النصوص والأيقونات أكثر جاذبية ووضوحًا باستخدام خطوط جوجل ومكتبة Font Awesome. يمكن عرض الصور والمحتويات بشكل جذاب وسلس بفضل مكتبة Slick-Carousel و React-Slick.", 
+"img": "https://i.postimg.cc/4yM6Q4bR/28.png",
+"view": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"download": "https://github.com/ahmed-mohammed-developer/AhmedMohammedCode/tree/main",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS", "Bootstrap library", "Google fonts",  "Responsive", "React", "Vite", "JSON", "React-Icons", "React-Slick", "Slick-Carousel", "Font Awesome"],
+"type": ["موقع شخصي","صفحة هبوط"],
+"date": "2024-09-01T10:10:00Z"
+},
+{ "id": 29,
+"title": "قالب", 
+"description": "هل تبحث عن طريقة فعّالة لعرض أعمالك كمبرمج مواقع، مصمم، أو مصور بطريقة جذابة وسهلة الاستخدام؟ نقدم لك معرض الأعمال المثالي المصمم باستخدام أحدث التقنيات لضمان تجربة مستخدم مميزة وأداء عالي. تم تصميم الموقع باستخدام React وأداة التطوير Vite، مما يضمن سرعة الأداء وسهولة الإعداد. يتم عرض البيانات بشكل ديناميكي من خلال جلبها من ملف JSON، مما يسهل تحديث المعلومات دون الحاجة لتعديل الكود . التقنيات المستخدمة تشمل HTML وCSS لتصميم واجهات متوافقة مع جميع المتصفحات، وBootstrap لضمان تصميم متجاوب وجذاب على جميع الأجهزة. بالإضافة إلى ذلك، تم استخدام خطوط جوجل لتحسين جمالية النصوص، ومكتبة Font Awesome لإضافة أيقونات جذابة وسهلة الاستخدام. تم دمج مكتبة React-Router-Dom لتسهيل التنقل بين الصفحات، وReact-Slick وSlick-Carousel لإنشاء عروض شرائح سلسة وجذابة. كما تم استخدام مكتبة React-Icons لإضافة أيقونات متكاملة مع React، وReact-Helmet-Async لإدارة عناصر الرأس في الصفحة، وReact-Scroll-To-Top لتحسين تجربة التنقل..بفضل هذه التقنيات المتقدمة، يتميز الموقع بأداء عالي وسرعة تحميل فائقة، وتصميم متجاوب وجذاب، وعرض ديناميكي للبيانات، وتفاعلية وسهولة الاستخدام، وجمالية النصوص والأيقونات، وعروض شرائح سلسة وجذابة. هل أنت مستعد للارتقاء بمعرض أعمالك إلى المستوى التالي؟ جرب هذا الموقع المصمم باستخدام أحدث التقنيات واستمتع بتجربة مستخدم لا مثيل لها!", 
+"img": "https://i.postimg.cc/2jX7DTp9/29.png",
+"view": "https://ahmed-mohammed-developer.github.io/qalipAhmedMahmmed/#/",
+"download": "https://github.com/ahmed-mohammed-developer/Qalib",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS", "Bootstrap library", "Google fonts",  "Responsive", "React", "Vite", "JSON", "React-Icons", "React-Slick", "Slick-Carousel", "Font Awesome", "React-helmet-async", "React-scroll-to-top"],
+"type": ["أخرى","معرض أعمال"],
+"date": "2024-09-02T10:10:00Z"
 }
     ],
     "baaner": [
