@@ -348,6 +348,19 @@
 "tech": ["Html","CSS", "Bootstrap library", "Google fonts",  "Responsive", "React", "Vite", "JSON", "React-Icons", "React-Slick", "Slick-Carousel", "Font Awesome", "React-helmet-async", "React-scroll-to-top"],
 "type": ["أخرى","معرض أعمال"],
 "date": "2024-09-02T10:10:00Z"
+},
+{ "id": 30,
+"title": "10 أمثلة على استخدام props في React", 
+
+"description": "props هي اختصار لكلمة “properties” وتعني الخصائص. في React، تُستخدم props لتمرير البيانات من مكون أبوي إلى مكون فرعي. هذا يسمح بإعادة استخدام المكونات وتخصيصها بناءً على البيانات التي يتم تمريرها إليها. فهم كيفية استخدام props بشكل صحيح هو جزء أساسي من تعلم React لأنه يساعد في بناء مكونات ديناميكية وقابلة لإعادة الاستخدام.\n\nالأمثلة هي أداة تعليمية قوية تساعدك على فهم React بشكل أعمق وتطبيقه بشكل أكثر فعالية.", 
+"img": "https://i.postimg.cc/qvhzG2wt/props.png",
+"view": "https://ahmedmohammeddeveloper.blogspot.com/2024/10/15-props-react.html",
+"download": "https://github.com/ahmed-mohammed-developer/props-10-example",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS",  "React"],
+"type": ["أخرى","React", "Props"],
+"date": "2024-10-02T10:10:00Z"
 }
     ],
     "baaner": [
