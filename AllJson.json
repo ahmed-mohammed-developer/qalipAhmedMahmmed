@@ -351,7 +351,6 @@
 },
 { "id": 30,
 "title": "10 أمثلة على استخدام props في React", 
-
 "description": "props هي اختصار لكلمة “properties” وتعني الخصائص. في React، تُستخدم props لتمرير البيانات من مكون أبوي إلى مكون فرعي. هذا يسمح بإعادة استخدام المكونات وتخصيصها بناءً على البيانات التي يتم تمريرها إليها. فهم كيفية استخدام props بشكل صحيح هو جزء أساسي من تعلم React لأنه يساعد في بناء مكونات ديناميكية وقابلة لإعادة الاستخدام.\n\nالأمثلة هي أداة تعليمية قوية تساعدك على فهم React بشكل أعمق وتطبيقه بشكل أكثر فعالية.", 
 "img": "https://i.postimg.cc/qvhzG2wt/props.png",
 "view": "https://ahmedmohammeddeveloper.blogspot.com/2024/10/15-props-react.html",
@@ -361,6 +360,18 @@
 "tech": ["Html","CSS",  "React"],
 "type": ["أخرى","React", "Props"],
 "date": "2024-10-02T10:10:00Z"
+},
+{ "id": 31,
+"title": "أمثلة بسيطة لاستخدام القوائم في React", 
+"description": "هذه مجموعة من الأمثلة العملية التي توضح كيفية استخدام القوائم في مكتبة React. هذه الأمثلة تهدف إلى تعليم المطورين كيفية إنشاء وعرض القوائم بطرق مختلفة باستخدام React، مما يساعدهم على فهم كيفية التعامل مع البيانات الديناميكية في واجهات المستخدم.", 
+"img": "https://i.postimg.cc/dtXqXsKx/listre.png",
+"view": "https://ahmedmohammeddeveloper.blogspot.com/2024/10/10-react.html",
+"download": "https://github.com/ahmed-mohammed-developer/listReactExample",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS",  "React"],
+"type": ["أخرى","React", "Map", "List"],
+"date": "2024-10-02T10:10:00Z"
 }
     ],
     "baaner": [
@@ -369,3 +380,4 @@
       { "id": 3, "title": "سهولة التخصيص والتعديل", "content": "في عالم يتغير بسرعة، أصبحت القدرة على التكيف والتخصيص أمرًا حيويًا. نقدم لك حلولًا مبتكرة تتيح لك تخصيص وتعديل القوالب" , "img": "https://i.postimg.cc/nrnr5nQ6/3.png"}
     ]
   }
+
