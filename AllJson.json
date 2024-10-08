@@ -408,6 +408,30 @@
 "tech": ["Html","CSS",  "React"],
 "type": ["أخرى","React", "Object", "useState"],
 "date": "2024-10-04T10:10:00Z"
+},
+{ "id": 35,
+"title": "تحديث الحالة بشكل متزامن بإستخدام useState", 
+"description": " سأقدم لك مثالًا عمليًا باستخدام useState في React، حيث نقوم بتعديل الحالة مرتين متتاليتين في نفس الوقت. هذا يمكن أن يكون مفيدًا لفهم كيفية تحديث الحالة بشكل متزامن.", 
+"img": "https://i.postimg.cc/pT3XdnJj/incremit.png",
+"view": "https://ahmedmohammeddeveloper.blogspot.com/2024/10/usestate_19.html",
+"download": "https://github.com/ahmed-mohammed-developer/incrementTwice-useState",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS",  "React"],
+"type": ["أخرى","React", "useState"],
+"date": "2024-10-05T10:10:00Z"
+},
+{ "id": 36,
+"title": "مثال لتمرير مصفوفة عن طريق useState", 
+"description": "مثال بسيط باستخدام React و useState لتمرير مصفوفة من الفواكه وعرضها في قائمة. كما سيمكن المستخدم من إضافة عناصر جديدة إلى القائمة مع الحذف والتعديل.", 
+"img": "https://i.postimg.cc/d37kHY42/Fruit-List.png",
+"view": "https://ahmedmohammeddeveloper.blogspot.com/2024/10/usestate_7.html",
+"download": "https://github.com/ahmed-mohammed-developer/FruitList-useState",
+"By": "أحمد محمد",
+"ByUrl": "https://ahmed-mohammed-developer.github.io/AhmedMohammed/",
+"tech": ["Html","CSS",  "React"],
+"type": ["أخرى","React", "useState", "Array"],
+"date": "2024-10-05T10:10:00Z"
 }
     ],
     "baaner": [
